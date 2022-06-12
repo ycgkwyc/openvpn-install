@@ -1,6 +1,6 @@
 1.下载脚本
 
-$ wget https://github.com/ycgkwyc/openvpn-install.git
+$ wget https://github.com/ycgkwyc/openvpn-install/blob/main/openvpn-install.sh
 
 2.执行安装脚本
 $ bash openvpn-install.sh
